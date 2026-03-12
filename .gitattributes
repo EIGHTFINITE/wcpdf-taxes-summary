@@ -1,0 +1,7 @@
+* text=false
+/.gitattributes text working-tree-encoding=UTF-8 eol=lf
+/LICENSE text working-tree-encoding=UTF-8 eol=lf
+/README.md text working-tree-encoding=UTF-8 eol=lf
+/wcpdf-taxes-summary.php text working-tree-encoding=UTF-8 eol=lf
+/.gitattributes export-ignore
+/README.md export-ignore
